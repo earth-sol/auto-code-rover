@@ -72,6 +72,6 @@ jobs:
           echo "Branch Rate: $(grep -o 'branch-rate="[0-9\.]*"' coverage.xml | sed 's/branch-rate="//;s/"//')"
 
       - name: SonarQube Scan
-        uses: SonarSource/sonarqube-scan-action@v4
+        uses: SonarSource/sonarqube-scan-action@v6
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
