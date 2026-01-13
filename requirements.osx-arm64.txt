@@ -109,7 +109,7 @@ uc-micro-py==1.0.2
 unidiff==0.7.5
 unittest-xml-reporting==3.2.0
 urllib3
-virtualenv==20.25.0
+virtualenv==20.36.1
 yarl==1.9.4
 zipp==3.19.2
 zstandard==0.22.0
