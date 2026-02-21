@@ -39,7 +39,7 @@ importlib-metadata==7.0.1
 install-jdk==1.1.0
 isort==5.13.2
 javalang==0.13.0
-Jinja2==3.1.4
+Jinja2==3.1.6
 jsonschema==4.22.0
 jsonschema-specifications==2023.12.1
 libclang==18.1.1
